@@ -26,7 +26,7 @@ As visualized in the included methodology diagram, the project follows these ste
 
 ---
 
-## 🛠️ Tools & AI Attribution
+## Tools & AI Attribution
 * **Development Environment:** Jupyter Notebook.
 * **Data Manipulation:** Python Pandas library.
 * **Diagram Generation:** The **Methodology Diagram** was designed and generated with the assistance of **Gemini AI**.
